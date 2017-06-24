@@ -5,7 +5,50 @@
     <bookmark url="file://$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/ProjectDocumentation.cs" line="25" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0ab6cd1-9a65-4568-9264-b2b45ac2a590" name="Default" comment="" />
+    <list default="true" id="c0ab6cd1-9a65-4568-9264-b2b45ac2a590" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/Newtonsoft.Json.10.0.3.nupkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net20/Newtonsoft.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net20/Newtonsoft.Json.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net35/Newtonsoft.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net35/Newtonsoft.Json.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net40/Newtonsoft.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net40/Newtonsoft.Json.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net45/Newtonsoft.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/net45/Newtonsoft.Json.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/netstandard1.0/Newtonsoft.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/netstandard1.0/Newtonsoft.Json.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/netstandard1.3/Newtonsoft.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/netstandard1.3/Newtonsoft.Json.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.10.0.3/tools/install.ps1" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.dll" afterPath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.pdb" afterPath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/obj/Debug/AutoDocumentation.dll" afterPath="$PROJECT_DIR$/AutoDocumentation/obj/Debug/AutoDocumentation.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/obj/Debug/AutoDocumentation.pdb" afterPath="$PROJECT_DIR$/AutoDocumentation/obj/Debug/AutoDocumentation.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentation.dll" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentation.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentation.pdb" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentation.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentationConsole.exe" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentationConsole.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentationConsole.pdb" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentationConsole.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/ExampleLibrary.dll" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/ExampleLibrary.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/ExampleLibrary.pdb" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/ExampleLibrary.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.exe" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.pdb" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/AutoDocumentation.dll" afterPath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/AutoDocumentation.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/AutoDocumentation.pdb" afterPath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/AutoDocumentation.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/ExampleLibrary.dll" afterPath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/ExampleLibrary.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/ExampleLibrary.pdb" afterPath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/ExampleLibrary.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.dll" afterPath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.pdb" afterPath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.AutoDocumentation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AutoDocumentation/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/AutoDocumentation.csproj" afterPath="$PROJECT_DIR$/AutoDocumentation/AutoDocumentation.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/AutoDocumentationConsole.csproj" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/AutoDocumentationConsole.csproj" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,16 +63,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AutoDocumentationConsole/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+            <state relative-caret-position="204">
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <marker date="1498341213721" expanded="true" signature="35:365" ph="{...}" />
                 <marker date="1498341213721" expanded="true" signature="72:362" ph="{...}" />
                 <marker date="1498341213721" expanded="true" signature="122:355" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoDocumentation.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutoDocumentation/cs/Implementations/AutoDocumentation.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <marker date="1498341192994" expanded="false" signature="6:55" ph="..." />
+                <marker date="1498341192994" expanded="true" signature="85:1517" ph="{...}" />
+                <marker date="1498341192994" expanded="true" signature="130:1514" ph="{...}" />
+                <marker date="1498341192994" expanded="false" signature="256:527" ph="{...}" />
+                <marker date="1498341192994" expanded="false" signature="356:442" ph="{...}" />
+                <marker date="1498341192994" expanded="false" signature="653:863" ph="{...}" />
+                <marker date="1498341192994" expanded="false" signature="690:777" ph="{...}" />
+                <marker date="1498341192994" expanded="true" signature="873:1507" ph="private methods" />
+                <marker date="1498341192994" expanded="true" signature="1010:1305" ph="{...}" />
+                <marker date="1498341192994" expanded="false" signature="1375:1487" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packages.config" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AutoDocumentation/packages.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -40,6 +114,9 @@
     <findStrings>
       <find>br</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -110,6 +187,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -162,7 +240,83 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="AutoDocumentationConsole" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Properties" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoDocumentation (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoDocumentationConsole" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="References" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoDocumentation (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoDocumentationConsole" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="References" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assemblies" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoDocumentation (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="AutoDocumentation" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoDocumentation (3 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoDocumentation" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="References" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -283,12 +437,12 @@
       <workItem from="1498173720510" duration="14051000" />
       <workItem from="1498240619039" duration="7166000" />
       <workItem from="1498254943751" duration="34125000" />
-      <workItem from="1498324192735" duration="9005000" />
+      <workItem from="1498324192735" duration="10757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64347000" />
+    <option name="totallyTimeSpent" value="66099000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,10 +461,10 @@
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15298508" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.50319827" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20095949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819384" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
@@ -359,32 +513,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/AutoDocumentation/cs/Implementations/AutoDocumentation.cs</url>
-          <line>25</line>
-          <properties startOffset="1010" endOffset="1011" documentPath="$PROJECT_DIR$/AutoDocumentation/cs/Implementations/AutoDocumentation.cs" />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/EnumDocumentation.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="88" lean-forward="false" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="88" />
-          <folding>
-            <marker date="1498326419367" expanded="true" signature="43:586" ph="{...}" />
-            <marker date="1498326419367" expanded="true" signature="101:583" ph="{...}" />
-            <marker date="1498326419367" expanded="true" signature="189:255" ph="{...}" />
-            <marker date="1498326419367" expanded="true" signature="301:566" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/InterfaceDocumentation.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -824,34 +957,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AutoDocumentationConsole/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1498341213721" expanded="true" signature="35:365" ph="{...}" />
+            <marker date="1498341213721" expanded="true" signature="72:362" ph="{...}" />
+            <marker date="1498341213721" expanded="true" signature="122:355" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AutoDocumentation/cs/Implementations/AutoDocumentation.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        <state relative-caret-position="204">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <marker date="1498341192994" expanded="true" signature="6:55" ph="..." />
+            <marker date="1498341192994" expanded="false" signature="6:55" ph="..." />
             <marker date="1498341192994" expanded="true" signature="85:1517" ph="{...}" />
             <marker date="1498341192994" expanded="true" signature="130:1514" ph="{...}" />
             <marker date="1498341192994" expanded="false" signature="256:527" ph="{...}" />
             <marker date="1498341192994" expanded="false" signature="356:442" ph="{...}" />
             <marker date="1498341192994" expanded="false" signature="653:863" ph="{...}" />
             <marker date="1498341192994" expanded="false" signature="690:777" ph="{...}" />
-            <marker date="1498341192994" expanded="false" signature="873:1507" ph="private methods" />
-            <marker date="1498341192994" expanded="false" signature="1010:1305" ph="{...}" />
+            <marker date="1498341192994" expanded="true" signature="873:1507" ph="private methods" />
+            <marker date="1498341192994" expanded="true" signature="1010:1305" ph="{...}" />
             <marker date="1498341192994" expanded="false" signature="1375:1487" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AutoDocumentationConsole/Program.cs">
+    <entry file="file://$PROJECT_DIR$/AutoDocumentation/packages.config">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding>
-            <marker date="1498341213721" expanded="true" signature="35:365" ph="{...}" />
-            <marker date="1498341213721" expanded="true" signature="72:362" ph="{...}" />
-            <marker date="1498341213721" expanded="true" signature="122:355" ph="{...}" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
