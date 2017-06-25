@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace AutoDocumentation {
 
-    public class FieldDocumentation : TypeDocumentation {
+    internal class FieldDocumentation : TypeDocumentation {
 
         private readonly string _type;
         private readonly List<Type> _typeArguments;

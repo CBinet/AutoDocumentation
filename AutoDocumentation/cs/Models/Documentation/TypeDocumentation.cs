@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace AutoDocumentation {
 
-    public abstract class TypeDocumentation {
+    internal abstract class TypeDocumentation {
 
         protected readonly string Namespace;
         protected readonly string Name;

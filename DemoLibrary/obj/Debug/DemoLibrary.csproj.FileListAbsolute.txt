@@ -1,0 +1,5 @@
+C:\Users\Charles\RiderProjects\AutoDocumentation\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Charles\RiderProjects\AutoDocumentation\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Charles\RiderProjects\AutoDocumentation\DemoLibrary\obj\Debug\DemoLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Charles\RiderProjects\AutoDocumentation\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Charles\RiderProjects\AutoDocumentation\DemoLibrary\obj\Debug\DemoLibrary.pdb

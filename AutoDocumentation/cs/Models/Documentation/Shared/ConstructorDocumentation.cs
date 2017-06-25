@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace AutoDocumentation {
 
-    public class ConstructorDocumentation : TypeDocumentation {
+    internal class ConstructorDocumentation : TypeDocumentation {
 
         private readonly List<ParameterDocumentation> _parameters;
 

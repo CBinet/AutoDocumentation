@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleLibrary", "ExampleLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDocumentation", "AutoDocumentation\AutoDocumentation.csproj", "{2D452DF5-196B-42BB-9DB4-737666BFB4A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLibrary", "DemoLibrary\DemoLibrary.csproj", "{2257C48A-B378-4491-8BEC-5E8DEF17A227}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2D452DF5-196B-42BB-9DB4-737666BFB4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D452DF5-196B-42BB-9DB4-737666BFB4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D452DF5-196B-42BB-9DB4-737666BFB4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2257C48A-B378-4491-8BEC-5E8DEF17A227}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2257C48A-B378-4491-8BEC-5E8DEF17A227}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2257C48A-B378-4491-8BEC-5E8DEF17A227}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2257C48A-B378-4491-8BEC-5E8DEF17A227}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,7 +2,7 @@
 
 namespace AutoDocumentation {
 
-    public class EnumDocumentation : TypeDocumentation {
+    internal class EnumDocumentation : TypeDocumentation {
 
         public EnumDocumentation(Type pTypeDocumentation) : base(pTypeDocumentation) {
             Enums = pTypeDocumentation.GetEnumNames();

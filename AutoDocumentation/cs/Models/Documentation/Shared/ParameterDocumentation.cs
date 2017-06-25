@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace AutoDocumentation {
 
-    public class ParameterDocumentation {
+    internal class ParameterDocumentation {
 
         private readonly string _type;
         private readonly string _name;

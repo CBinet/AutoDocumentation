@@ -3,9 +3,5 @@ C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\bin\De
 C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\obj\Debug\AutoDocumentationConsole.csprojResolveAssemblyReference.cache
 C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\obj\Debug\AutoDocumentationConsole.exe
 C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\obj\Debug\AutoDocumentationConsole.pdb
-C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\bin\Debug\ExampleLibrary.dll
-C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\bin\Debug\ExampleLibrary.pdb
 C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\bin\Debug\AutoDocumentation.dll
 C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentationConsole\bin\Debug\AutoDocumentation.pdb

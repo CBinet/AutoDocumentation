@@ -3,7 +3,7 @@ using System.Reflection;
 
 namespace AutoDocumentation {
 
-    public class ClassDocumentation : TypeDocumentation {
+    internal class ClassDocumentation : TypeDocumentation {
 
         public ClassDocumentation(TypeInfo pTypeDocumentation) : base(pTypeDocumentation) {
             DeclaredFields = pTypeDocumentation.DeclaredFields.Select(field => new FieldDocumentation(field)).ToList();

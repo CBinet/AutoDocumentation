@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace AutoDocumentation {
 
-    public class MethodDocumentation : TypeDocumentation {
+    internal class MethodDocumentation : TypeDocumentation {
 
         private readonly string _returnParameter;
         private readonly List<Type> _returnParameterArguments;

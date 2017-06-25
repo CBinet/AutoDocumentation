@@ -17,11 +17,6 @@ namespace AutoDocumentationConsole {
             Console.WriteLine(pText);
         }
 
-        /// <summary>
-        /// Method used to store text inside
-        /// the data structure.
-        /// </summary>
-        /// <param name="pText">Text to add</param>
         public void Store(string pText, string tag = null) {
             exampleStructs.Add(new ExampleStruct() {Text = pText});
         }

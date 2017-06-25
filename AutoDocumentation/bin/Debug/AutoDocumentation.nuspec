@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>BetaSoftware.AutoDocumentation</id>
+    <version>1.0.0</version>
+    <authors>Charles Binet</authors>
+    <owners>Charles Binet</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Csharp to markdown auto-generated documentation.</description>
+    <releaseNotes>1.0.1 : - Facade is now a static class</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>csharp markdown documentation auto autodocumentation</tags>
+  </metadata>
+</package>

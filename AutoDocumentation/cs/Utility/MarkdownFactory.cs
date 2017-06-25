@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AutoDocumentation {
 
-    public static class MarkdownFactory {
+    internal static class MarkdownFactory {
 
         public static IList<TypeDocumentation> DefinedTypes;
 

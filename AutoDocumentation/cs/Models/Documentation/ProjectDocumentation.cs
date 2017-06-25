@@ -5,7 +5,7 @@ using System.Text;
 
 namespace AutoDocumentation {
 
-    public class ProjectDocumentation {
+    internal class ProjectDocumentation {
 
         private readonly Assembly _assembly;
         private readonly IList<TypeDocumentation> _definedTypes;

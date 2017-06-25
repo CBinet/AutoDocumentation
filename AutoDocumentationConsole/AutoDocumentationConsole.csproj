@@ -45,13 +45,17 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Scripts\jquery-2.1.1-vsdoc.js" />
+    <None Include="Scripts\jquery-2.1.1.js" />
+    <None Include="Scripts\jquery-2.1.1.min.js" />
+    <None Include="Scripts\jquery-2.1.1.min.map" />
+    <None Include="Scripts\nugetexample.js" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\AutoDocumentation\AutoDocumentation.csproj">
-      <Project>{2d452df5-196b-42bb-9db4-737666bfb4a4}</Project>
+      <Project>{2D452DF5-196B-42BB-9DB4-737666BFB4A4}</Project>
       <Name>AutoDocumentation</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ExampleLibrary\ExampleLibrary.csproj">
-      <Project>{ba2f345d-1ad8-4bc6-a37d-10b3338b6e3f}</Project>
-      <Name>ExampleLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

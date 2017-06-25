@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace AutoDocumentation {
 
-    public class StructDocumentation : TypeDocumentation {
+    internal class StructDocumentation : TypeDocumentation {
 
         public StructDocumentation(Type pTypeDocumentation) : base(pTypeDocumentation) {
             DeclaredFields = pTypeDocumentation.GetFields().Select(field => new FieldDocumentation(field)).ToList();

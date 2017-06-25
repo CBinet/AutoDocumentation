@@ -2,7 +2,7 @@
 
 namespace AutoDocumentation {
 
-    public static class TypeDocumentationFactory {
+    internal static class TypeDocumentationFactory {
 
         public static TypeDocumentation Create(TypeInfo typeDocumentation) {
             
