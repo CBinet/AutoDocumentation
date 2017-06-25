@@ -1,8 +1,0 @@
-C:\Users\Charles\RiderProjects\AutoDocumentation\ExampleLibrary\bin\Debug\ExampleLibrary.dll
-C:\Users\Charles\RiderProjects\AutoDocumentation\ExampleLibrary\bin\Debug\ExampleLibrary.pdb
-C:\Users\Charles\RiderProjects\AutoDocumentation\ExampleLibrary\obj\Debug\ExampleLibrary.csprojResolveAssemblyReference.cache
-C:\Users\Charles\RiderProjects\AutoDocumentation\ExampleLibrary\obj\Debug\ExampleLibrary.dll
-C:\Users\Charles\RiderProjects\AutoDocumentation\ExampleLibrary\obj\Debug\ExampleLibrary.pdb
-C:\Users\Charles\RiderProjects\AutoDocumentation\ExampleLibrary\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Charles\RiderProjects\AutoDocumentation\ExampleLibrary\bin\Debug\AutoDocumentation.dll
-C:\Users\Charles\RiderProjects\AutoDocumentation\ExampleLibrary\bin\Debug\AutoDocumentation.pdb

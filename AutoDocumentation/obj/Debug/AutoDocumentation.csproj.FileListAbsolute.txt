@@ -1,5 +1,0 @@
-C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentation\bin\Debug\AutoDocumentation.dll
-C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentation\bin\Debug\AutoDocumentation.pdb
-C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentation\obj\Debug\AutoDocumentation.csprojResolveAssemblyReference.cache
-C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentation\obj\Debug\AutoDocumentation.dll
-C:\Users\Charles\RiderProjects\AutoDocumentation\AutoDocumentation\obj\Debug\AutoDocumentation.pdb
