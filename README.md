@@ -32,6 +32,7 @@ public class IgnoredClass {
 }
 ```
 <br>
+
 More in **AutoDocumentation** 1.2.0 (Coming August 2017).
 
 <br> <hr> <br>
