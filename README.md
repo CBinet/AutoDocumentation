@@ -1,7 +1,7 @@
 # AutoDocumentation
 
 ## Installation
-To install AutoDocumentation, run the following command in the <a href='#https://docs.microsoft.com/fr-fr/nuget/tools/package-manager-console'>Package Manager Console</a>  :
+To install **AutoDocumentation**, run the following command in the <a href='#https://docs.microsoft.com/fr-fr/nuget/tools/package-manager-console'>Package Manager Console</a>  :
 
 ```
 PM> Install-Package BetaSoftware.AutoDocumentation
