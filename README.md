@@ -1,7 +1,7 @@
 # AutoDocumentation
 
 ## Installation
-To install **AutoDocumentation**, run the following command in the <a href='#https://docs.microsoft.com/fr-fr/nuget/tools/package-manager-console'>Package Manager Console</a>  :
+To install **AutoDocumentation**, you can either browse the Package Manager or run the following command in the <a href='#https://docs.microsoft.com/fr-fr/nuget/tools/package-manager-console'>Package Manager Console</a> :
 
 ```
 PM> Install-Package BetaSoftware.AutoDocumentation
@@ -16,6 +16,23 @@ To start using **AutoDocumentation**, simply call the GenerateDocumentation meth
 var assembly = Assembly.LoadFrom(pathToDll); // Load the assembly.
 BetaSoftware.AutoDocumentation.GenerateDocumentation(assembly);
 ```
+
+### Settings attributes
+You can customize the content that will appear in your generated documentation
+with the **AutoDocumentation** attributes :
+
+**AutoDocumentationIgnore**
+<br>
+Add to exlude a type from documentation generation : 
+
+```cs
+[AutoDocumentationIgnore]
+public class IgnoredClass {
+    ...
+}
+```
+<br>
+More in **AutoDocumentation** 1.2.0 (Coming August 2017).
 
 <br> <hr> <br>
 
