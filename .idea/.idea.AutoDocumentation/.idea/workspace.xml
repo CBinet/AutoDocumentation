@@ -5,7 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/ProjectDocumentation.cs" line="25" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0ab6cd1-9a65-4568-9264-b2b45ac2a590" name="Default" comment="" />
+    <list default="true" id="c0ab6cd1-9a65-4568-9264-b2b45ac2a590" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.AutoDocumentation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AutoDocumentation/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -127,8 +129,8 @@
       <file leaf-file-name="Department.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DemoLibrary/Department.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding>
                 <marker date="1498363708744" expanded="true" signature="22:121" ph="{...}" />
                 <marker date="1498363708744" expanded="true" signature="52:118" ph="{...}" />
@@ -413,12 +415,12 @@
       <workItem from="1498173720510" duration="14051000" />
       <workItem from="1498240619039" duration="7166000" />
       <workItem from="1498254943751" duration="34125000" />
-      <workItem from="1498324192735" duration="18310000" />
+      <workItem from="1498324192735" duration="18408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73652000" />
+    <option name="totallyTimeSpent" value="73750000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -949,8 +951,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DemoLibrary/Department.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <marker date="1498363708744" expanded="true" signature="22:121" ph="{...}" />
             <marker date="1498363708744" expanded="true" signature="52:118" ph="{...}" />
