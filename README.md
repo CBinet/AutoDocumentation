@@ -23,7 +23,7 @@ with the **AutoDocumentation** attributes :
 
 **AutoDocumentationIgnore**
 <br>
-Add to exlude a type from documentation generation : 
+Add to exclude a type from documentation generation : 
 
 ```cs
 [AutoDocumentationIgnore]
