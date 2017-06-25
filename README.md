@@ -143,5 +143,3 @@ namespace DemoLibrary {
 
 <br> <hr> <br>
 
-## More example :
-<a href='#https://github.com/CBinet/AutoDocumentation/blob/master/Sourcecode.zip'>Click here</a> to download the source code of this example and the generated documentation.
