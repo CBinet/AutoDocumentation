@@ -5,57 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/ProjectDocumentation.cs" line="25" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0ab6cd1-9a65-4568-9264-b2b45ac2a590" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DemoLibrary/Address.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DemoLibrary/Department.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DemoLibrary/IFormattable.cs" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.dll.1.0.0.nupkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.dll.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/lib/AutoDocumentation.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/ExampleLibrary.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/ExampleLibrary.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/Newtonsoft.Json.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.dll" afterPath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.pdb" afterPath="$PROJECT_DIR$/AutoDocumentation/bin/Debug/AutoDocumentation.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/obj/Debug/AutoDocumentation.dll" afterPath="$PROJECT_DIR$/AutoDocumentation/obj/Debug/AutoDocumentation.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/obj/Debug/AutoDocumentation.pdb" afterPath="$PROJECT_DIR$/AutoDocumentation/obj/Debug/AutoDocumentation.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentation.dll" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentation.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentation.pdb" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentation.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentationConsole.exe" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentationConsole.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentationConsole.pdb" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/bin/Debug/AutoDocumentationConsole.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.exe" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.pdb" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/AutoDocumentation.dll" afterPath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/AutoDocumentation.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/AutoDocumentation.pdb" afterPath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/AutoDocumentation.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/ExampleLibrary.dll" afterPath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/ExampleLibrary.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/ExampleLibrary.pdb" afterPath="$PROJECT_DIR$/ExampleLibrary/bin/Debug/ExampleLibrary.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.dll" afterPath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.dll" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.pdb" afterPath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.AutoDocumentation/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.AutoDocumentation/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.AutoDocumentation/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.AutoDocumentation/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation.sln" afterPath="$PROJECT_DIR$/AutoDocumentation.sln" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/ClassDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/ClassDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/EnumDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/EnumDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/InterfaceDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/InterfaceDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/ProjectDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/ProjectDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/Shared/ConstructorDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/Shared/ConstructorDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/Shared/FieldDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/Shared/FieldDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/Shared/MethodDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/Shared/MethodDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/Shared/ParameterDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/Shared/ParameterDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/StructDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/StructDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/TypeDocumentation.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Models/Documentation/TypeDocumentation.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Utility/MarkdownFactory.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Utility/MarkdownFactory.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentation/cs/Utility/TypeDocumentationFactory.cs" afterPath="$PROJECT_DIR$/AutoDocumentation/cs/Utility/TypeDocumentationFactory.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/AutoDocumentationConsole.csproj" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/AutoDocumentationConsole.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/Program.cs" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/Program.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/AutoDocumentationConsole/obj/Debug/AutoDocumentationConsole.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/ExampleClass.cs" afterPath="$PROJECT_DIR$/ExampleLibrary/ExampleClass.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/ExampleLibrary/obj/Debug/ExampleLibrary.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="c0ab6cd1-9a65-4568-9264-b2b45ac2a590" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -463,12 +413,12 @@
       <workItem from="1498173720510" duration="14051000" />
       <workItem from="1498240619039" duration="7166000" />
       <workItem from="1498254943751" duration="34125000" />
-      <workItem from="1498324192735" duration="17798000" />
+      <workItem from="1498324192735" duration="18310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73140000" />
+    <option name="totallyTimeSpent" value="73652000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
