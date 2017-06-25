@@ -4,8 +4,8 @@ namespace AutoDocumentation {
 
     internal class EnumDocumentation : TypeDocumentation {
 
-        public EnumDocumentation(Type pTypeDocumentation) : base(pTypeDocumentation) {
-            Enums = pTypeDocumentation.GetEnumNames();
+        public EnumDocumentation(Type pTypeInfo) : base(pTypeInfo) {
+            Enums = pTypeInfo.GetEnumNames();
         }
 
         public override string ToMarkdown() {

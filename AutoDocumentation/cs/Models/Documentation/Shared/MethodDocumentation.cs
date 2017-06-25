@@ -11,10 +11,10 @@ namespace AutoDocumentation {
         private readonly List<Type> _returnParameterArguments;
         private readonly List<ParameterDocumentation> _parameters;
 
-        public MethodDocumentation(MethodInfo pMethodDocumentation) : base(pMethodDocumentation) {
-            _returnParameter = pMethodDocumentation.ReturnType.Name;
-            _returnParameterArguments = pMethodDocumentation.ReturnType.GenericTypeArguments.ToList();
-            _parameters = pMethodDocumentation.GetParameters().Select(param => new ParameterDocumentation(param))
+        public MethodDocumentation(MethodInfo pMethodInfo) : base(pMethodInfo) {
+            _returnParameter = pMethodInfo.ReturnType.Name;
+            _returnParameterArguments = pMethodInfo.ReturnType.GenericTypeArguments.ToList();
+            _parameters = pMethodInfo.GetParameters().Select(param => new ParameterDocumentation(param))
                                               .ToList();
         }
 

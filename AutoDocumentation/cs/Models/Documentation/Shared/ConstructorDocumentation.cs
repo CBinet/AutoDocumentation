@@ -8,8 +8,8 @@ namespace AutoDocumentation {
 
         private readonly List<ParameterDocumentation> _parameters;
 
-        public ConstructorDocumentation(MethodBase pCtorDocumentation) : base(pCtorDocumentation) {
-            _parameters = pCtorDocumentation.GetParameters().Select(param => new ParameterDocumentation(param))
+        public ConstructorDocumentation(MethodBase pCtorInfo) : base(pCtorInfo) {
+            _parameters = pCtorInfo.GetParameters().Select(param => new ParameterDocumentation(param))
                                             .ToList();
         }
 

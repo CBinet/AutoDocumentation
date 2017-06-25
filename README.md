@@ -13,8 +13,8 @@ PM> Install-Package BetaSoftware.AutoDocumentation
 To start using **AutoDocumentation**, simply call the GenerateDocumentation method of the **AutoDocumentation** class with the project assembly :
 
 ```cs
-var assembly = Assembly.LoadFrom(pathToDll); // Load the assembly
-AutoDocumentation.GenerateDocumentation(assembly) // Generate doc !
+var assembly = Assembly.LoadFrom(pathToDll); // Load the assembly.
+BetaSoftware.AutoDocumentation.GenerateDocumentation(assembly);
 ```
 
 <br> <hr> <br>

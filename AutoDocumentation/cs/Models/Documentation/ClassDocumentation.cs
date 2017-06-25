@@ -5,11 +5,11 @@ namespace AutoDocumentation {
 
     internal class ClassDocumentation : TypeDocumentation {
 
-        public ClassDocumentation(TypeInfo pTypeDocumentation) : base(pTypeDocumentation) {
-            DeclaredFields = pTypeDocumentation.DeclaredFields.Select(field => new FieldDocumentation(field)).ToList();
-            DeclaredConstructors = pTypeDocumentation
+        public ClassDocumentation(TypeInfo pTypeInfo) : base(pTypeInfo) {
+            DeclaredFields = pTypeInfo.DeclaredFields.Select(field => new FieldDocumentation(field)).ToList();
+            DeclaredConstructors = pTypeInfo
                 .DeclaredConstructors.Select(ctor => new ConstructorDocumentation(ctor)).ToList();
-            DeclaredMethods = pTypeDocumentation.DeclaredMethods.Select(method => new MethodDocumentation(method))
+            DeclaredMethods = pTypeInfo.DeclaredMethods.Select(method => new MethodDocumentation(method))
                                                 .ToList();
         }
 
@@ -21,6 +21,7 @@ namespace AutoDocumentation {
                                                         MarkdownFactory.FormatFullName(
                                                                                        Namespace,
                                                                                        Name,
+                                                                                       TypeArguments,
                                                                                        ImplementedInterfaces,
                                                                                        BaseType),
                                                         MarkdownFactory.FormatAnchor(Name)),

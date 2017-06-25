@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoDocumentation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\BetaSoftware.AutoDocumentation.1.0.8\lib\net45\AutoDocumentation.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -51,12 +54,6 @@
     <None Include="Scripts\jquery-2.1.1.min.js" />
     <None Include="Scripts\jquery-2.1.1.min.map" />
     <None Include="Scripts\nugetexample.js" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AutoDocumentation\AutoDocumentation.csproj">
-      <Project>{2d452df5-196b-42bb-9db4-737666bfb4a4}</Project>
-      <Name>AutoDocumentation</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

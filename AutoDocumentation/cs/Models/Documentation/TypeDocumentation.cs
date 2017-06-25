@@ -15,44 +15,46 @@ namespace AutoDocumentation {
         protected readonly bool IsAbstract;
         protected readonly bool IsStatic;
         protected readonly string BaseType;
-        protected readonly IList<string> ImplementedInterfaces;
-        protected IList<FieldDocumentation> DeclaredFields;
-        protected IList<ConstructorDocumentation> DeclaredConstructors;
-        protected IList<MethodDocumentation> DeclaredMethods;
+        protected readonly List<string> ImplementedInterfaces;
+        protected List<FieldDocumentation> DeclaredFields;
+        protected List<ConstructorDocumentation> DeclaredConstructors;
+        protected List<MethodDocumentation> DeclaredMethods;
+        protected readonly List<Type> TypeArguments;
         protected string[] Enums;
 
         #region Base constructor(s)
 
-        protected TypeDocumentation(Type pTypeDocumentation) {
-            Namespace = pTypeDocumentation.Namespace;
-            Name = pTypeDocumentation.Name;
-            IsPublic = pTypeDocumentation.IsPublic;
-            IsAbstract = pTypeDocumentation.IsAbstract;
-            BaseType = pTypeDocumentation.BaseType?.Name;
-            ImplementedInterfaces = pTypeDocumentation.GetInterfaces().Select(i => i.Name).ToList();
+        protected TypeDocumentation(Type pTypeInfo) {
+            Namespace = pTypeInfo.Namespace;
+            Name = pTypeInfo.Name;
+            IsPublic = pTypeInfo.IsPublic;
+            IsAbstract = pTypeInfo.IsAbstract;
+            BaseType = pTypeInfo.BaseType?.Name;
+            ImplementedInterfaces = pTypeInfo.GetInterfaces().Select(i => i.Name).ToList();
+            TypeArguments = pTypeInfo.GetGenericArguments().ToList();
         }
 
-        protected TypeDocumentation(FieldInfo pTypeDocumentation) {
-            Name = pTypeDocumentation.Name;
-            IsPublic = pTypeDocumentation.IsPublic;
-            IsPrivate = pTypeDocumentation.IsPrivate;
-            IsStatic = pTypeDocumentation.IsStatic;
+        protected TypeDocumentation(FieldInfo pFieldInfo) {
+            Name = pFieldInfo.Name;
+            IsPublic = pFieldInfo.IsPublic;
+            IsPrivate = pFieldInfo.IsPrivate;
+            IsStatic = pFieldInfo.IsStatic;
         }
 
-        protected TypeDocumentation(MethodBase pCtorDocumentation) {
-            Name = pCtorDocumentation.DeclaringType?.Name;
-            IsPublic = pCtorDocumentation.IsPublic;
-            IsPrivate = pCtorDocumentation.IsPrivate;
-            IsStatic = pCtorDocumentation.IsStatic;
-            IsAbstract = pCtorDocumentation.IsAbstract;
+        protected TypeDocumentation(MethodBase pCtorInfo) {
+            Name = pCtorInfo.DeclaringType?.Name;
+            IsPublic = pCtorInfo.IsPublic;
+            IsPrivate = pCtorInfo.IsPrivate;
+            IsStatic = pCtorInfo.IsStatic;
+            IsAbstract = pCtorInfo.IsAbstract;
         }
 
-        protected TypeDocumentation(MethodInfo pMethodDocumentation) {
-            Name = pMethodDocumentation.Name;
-            IsPublic = pMethodDocumentation.IsPublic;
-            IsPrivate = pMethodDocumentation.IsPrivate;
-            IsAbstract = pMethodDocumentation.IsAbstract;
-            IsStatic = pMethodDocumentation.IsStatic;
+        protected TypeDocumentation(MethodInfo pMethodInfo) {
+            Name = pMethodInfo.Name;
+            IsPublic = pMethodInfo.IsPublic;
+            IsPrivate = pMethodInfo.IsPrivate;
+            IsAbstract = pMethodInfo.IsAbstract;
+            IsStatic = pMethodInfo.IsStatic;
         }
 
         #endregion

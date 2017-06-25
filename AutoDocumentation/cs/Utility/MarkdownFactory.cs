@@ -53,15 +53,15 @@ namespace AutoDocumentation {
             return pIsAbstract ? "abstract" : "";
         }
 
-        public static string FormatFullName(string pNamespace, string pName, IList<string> pImplementedInterfaces,
+        public static string FormatFullName(string pNamespace, string pName, List<Type> pTypeArguments, IList<string> pImplementedInterfaces,
                                             string pBaseType) {
             if (pImplementedInterfaces?.Count > 0) {
-                return pNamespace + "." + pName + FormatInterfaces(pImplementedInterfaces);
+                return pNamespace + "." + FormatType(pName, pTypeArguments) + FormatInterfaces(pImplementedInterfaces);
             }
             if (pBaseType != null) {
-                return pNamespace + "." + pName + " : " + pBaseType;
+                return pNamespace + "." + FormatType(pName, pTypeArguments) + " : " + pBaseType;
             }
-            return pNamespace + "." + pName;
+            return pNamespace + "." + FormatType(pName, pTypeArguments);
         }
 
         public static string FormatFields(IList<FieldDocumentation> declaredFields) {
