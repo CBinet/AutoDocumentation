@@ -54,7 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AutoDocumentation\AutoDocumentation.csproj">
-      <Project>{2D452DF5-196B-42BB-9DB4-737666BFB4A4}</Project>
+      <Project>{2d452df5-196b-42bb-9db4-737666bfb4a4}</Project>
       <Name>AutoDocumentation</Name>
     </ProjectReference>
   </ItemGroup>

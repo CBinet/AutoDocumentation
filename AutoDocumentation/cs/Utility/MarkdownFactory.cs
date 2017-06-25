@@ -22,7 +22,7 @@ namespace AutoDocumentation {
         public static string Anchor(string pHref, string pText) {
             var list = DefinedTypes.Select(type => type.GetName()).ToList();
             if (list.Contains(pText)) {
-                return string.Format("<a href='#{0}'>{1}</a>", pHref.Split('`')[0], pText.Split('`')[0]);
+                return string.Format("<a href='#{0}'>{1}</a>", CleanParameter(pHref), CleanParameter(pText));
             }
             return CleanParameter(pText);
         }
@@ -56,12 +56,12 @@ namespace AutoDocumentation {
         public static string FormatFullName(string pNamespace, string pName, IList<string> pImplementedInterfaces,
                                             string pBaseType) {
             if (pImplementedInterfaces?.Count > 0) {
-                return pNamespace + "." + pName + " : " + FormatInterfaces(pImplementedInterfaces);
-            } else if (pBaseType != "Object") {
-                return pNamespace + "." + pName + " : " + pBaseType;
-            } else {
-                return pNamespace + "." + pName;
+                return pNamespace + "." + pName + FormatInterfaces(pImplementedInterfaces);
             }
+            if (pBaseType != null) {
+                return pNamespace + "." + pName + " : " + pBaseType;
+            }
+            return pNamespace + "." + pName;
         }
 
         public static string FormatFields(IList<FieldDocumentation> declaredFields) {
@@ -101,14 +101,6 @@ namespace AutoDocumentation {
                 sb.Append(NewLine());
             }
             return sb.ToString();
-        }
-
-        public static string FormatReturnParameter(string pReturnParameter, List<Type> pReturnParameterArguments) {
-            return pReturnParameter == null
-                       ? "void"
-                       : Anchor(
-                                CleanParameter(pReturnParameter) + "Anchor",
-                                FormatType(CleanParameter(pReturnParameter), pReturnParameterArguments));
         }
 
         public static string FormatParameters(List<ParameterDocumentation> pParameters) {
@@ -170,13 +162,16 @@ namespace AutoDocumentation {
             return string.Format("<strong>{0}</strong>", pText);
         }
 
-        public static string NewLine() {
+        private static string NewLine() {
             return "<br> \r\n";
         }
 
         private static string FormatInterfaces(IList<string> pImplementedInterfaces) {
             StringBuilder sb = new StringBuilder();
             foreach (var implementedInterface in pImplementedInterfaces) {
+                if (pImplementedInterfaces.First().Equals(implementedInterface)) {
+                    sb.Append(" : ");
+                }
                 sb.Append(Anchor(implementedInterface + "Anchor", implementedInterface));
                 if (!pImplementedInterfaces.Last().Equals(implementedInterface)) {
                     sb.Append(", ");
@@ -185,7 +180,7 @@ namespace AutoDocumentation {
             return sb.ToString();
         }
 
-        private static string CleanParameter(string returnParameter) {
+        public static string CleanParameter(string returnParameter) {
             return returnParameter.Split('`')[0];
         }
 

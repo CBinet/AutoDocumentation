@@ -1,5 +1,4 @@
-﻿using System.IO;
-using Newtonsoft.Json;
+﻿using System;
 
 namespace AutoDocumentationConsole {
 
@@ -9,7 +8,7 @@ namespace AutoDocumentationConsole {
         public int Length;
 
         private void Serialise(string pPath) {
-            File.WriteAllText(pPath, JsonConvert.SerializeObject(this));
+            throw new NotImplementedException();
         }
 
     }

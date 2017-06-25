@@ -22,7 +22,7 @@ namespace AutoDocumentation {
                                                                                                      IsPrivate)),
                                  MarkdownFactory.FormatBoldFont(
                                                                 MarkdownFactory.FormatStaticModifier(IsStatic)),
-                                 Name,
+                                 MarkdownFactory.CleanParameter(Name),
                                  MarkdownFactory.FormatParameters(_parameters));
         }
 

@@ -2,13 +2,19 @@
 <package >
   <metadata>
     <id>BetaSoftware.AutoDocumentation</id>
-    <version>1.0.0</version>
-    <authors>Charles Binet</authors>
-    <owners>Charles Binet</owners>
+    <version>1.0.6</version>
+    <authors>Charles</authors>
+    <owners>Charles</owners>
+    <projectUrl>https://github.com/CBinet/AutoDocumentation</projectUrl>
+    <iconUrl>https://image.ibb.co/jcDXF5/Auto_Documentation.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Csharp to markdown auto-generated documentation.</description>
-    <releaseNotes>1.0.1 : - Facade is now a static class</releaseNotes>
+	<summary>Auto-generated documentation of C# projects to beautiful markdown files.</summary>
+    <releaseNotes>Fixed bug.</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>csharp markdown documentation auto autodocumentation</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
   </metadata>
 </package>
