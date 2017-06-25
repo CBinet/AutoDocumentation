@@ -68,7 +68,6 @@ namespace DemoLibrary {
         public Employee(int pId, string pName) {...}
 
         public string GetFormattedInformations() {...}
-
         public void Format() {...}
 
     }
