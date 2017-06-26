@@ -1,6 +1,6 @@
 # AutoDocumentation
 
-## Installation
+## **Installation**
 To install **AutoDocumentation**, you can either browse the Package Manager or run the following command in the <a href='#https://docs.microsoft.com/fr-fr/nuget/tools/package-manager-console'>Package Manager Console</a> :
 
 ```
@@ -9,7 +9,7 @@ PM> Install-Package BetaSoftware.AutoDocumentation
 
 <br> <hr> <br>
 
-## Usage
+## **Usage**
 To start using **AutoDocumentation**, simply call the GenerateDocumentation method of the **AutoDocumentation** class with the project assembly :
 
 ```cs
@@ -35,7 +35,7 @@ More in **AutoDocumentation** 1.2.0 (Coming August 2017).
 
 <br> <hr> <br>
 
-## Interface documentation
+## **Examples : Interface documentation**
 
 ```cs
 namespace DemoLibrary {
@@ -49,12 +49,11 @@ namespace DemoLibrary {
 }
 ```
 
-<h2 id='IFormattableAnchor'>DemoLibrary.IFormattable : </h2>   <h3>Methods : </h3><strong>public</strong> <strong></strong> <strong>abstract</strong> <strong>String</strong> GetFormattedInformations()<br> 
-<strong>public</strong> <strong></strong> <strong>abstract</strong> <strong>Void</strong> Format()<br> 
+<h2 id='IFormattableAnchor'>DemoLibrary.IFormattable </h2>   <h3>Methods : </h3><strong>public</strong> <strong></strong> <strong>abstract</strong> <strong>String</strong> FormatInformations()<br>
 
 <br> <hr> <br>
 
-## Class  documentation
+## **Examples : Class  documentation**
 
 ```cs
 namespace DemoLibrary {
@@ -77,14 +76,15 @@ namespace DemoLibrary {
 ```
 
 <h2 id='EmployeeAnchor'>DemoLibrary.Employee : <a href='#IFormattableAnchor'>IFormattable</a></h2> <h3>Fields : </h3><strong>public</strong> <strong></strong> <strong></strong> <strong>Int32</strong> Id<br> 
-<strong>public</strong> <strong></strong> <strong></strong> <strong>String</strong> Name<br> 
- <h3>Constructors : </h3><strong>public</strong> <strong></strong> Employee(<strong>Int32</strong> pId, <strong>String</strong> pName)<br> 
- <h3>Methods : </h3><strong>public</strong> <strong></strong> <strong></strong> <strong>String</strong> GetFormattedInformations()<br>
- <strong>public</strong> <strong></strong> <strong></strong> <strong>Void</strong> Format()<br> 
+<strong>public</strong> <strong></strong> <strong></strong> <strong>String</strong> Name<br>
+<strong>public</strong> <strong></strong> <strong></strong> <strong>Address</strong> Address<br>
+<strong>public</strong> <strong></strong> <strong></strong> <strong>Department</strong> Department<br> 
+ <h3>Constructors : </h3><strong>public</strong> <strong></strong> Employee(<strong>Int32</strong> pId, <strong>String</strong> pName, <strong>Address</strong> pAddress, <strong>Department</strong> pDepartment)<br> 
+ <h3>Methods : </h3><strong>public</strong> <strong></strong> <strong></strong> <strong>String</strong> FormatInformations()<br>
 
 <br> <hr> <br>
 
-## Struct documentation
+## **Examples : Struct documentation**
 
 ```cs
 namespace DemoLibrary {
@@ -108,7 +108,7 @@ namespace DemoLibrary {
 
 <br> <hr> <br>
 
-## Enum documentation :
+## **Examples : Enum documentation**
 
 ```cs
 namespace DemoLibrary {
