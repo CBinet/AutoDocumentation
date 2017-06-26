@@ -16,6 +16,11 @@ To start using **AutoDocumentation**, simply call the GenerateDocumentation meth
 var assembly = Assembly.LoadFrom(pathToDll); // Load the assembly.
 BetaSoftware.AutoDocumentation.GenerateDocumentation(assembly);
 ```
+To include all private and internal types in the generated documentation, call the GenerateDocumentation method with false as the second parameter :
+```cs
+var assembly = Assembly.LoadFrom(pathToDll); // Load the assembly.
+BetaSoftware.AutoDocumentation.GenerateDocumentation(assembly, false);
+```
 
 ### Settings attributes
 You can customize the content that will appear in your generated documentation
