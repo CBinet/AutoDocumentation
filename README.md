@@ -42,8 +42,7 @@ namespace DemoLibrary {
 
     public interface IFormattable {
 
-        string GetFormattedInformations();
-        void Format();
+        string FormatInformations();
 
     }
 
@@ -64,11 +63,13 @@ namespace DemoLibrary {
 
         public int Id;
         public string Name;
+        public Address Address;
+        public Department Department;
 
-        public Employee(int pId, string pName) {...}
+        public Employee(int pId, string pName, 
+        Address address, Department department) {...}
 
-        public string GetFormattedInformations() {...}
-        public void Format() {...}
+        public string FormatInformations() {...}
 
     }
 
