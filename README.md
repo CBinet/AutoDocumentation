@@ -36,8 +36,6 @@ public class IgnoredClass {
 }
 ```
 
-More in **AutoDocumentation** 1.2.0 (Coming August 2017).
-
 <br> <hr> <br>
 
 ## **Examples : Interface documentation**
